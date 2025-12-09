@@ -6,8 +6,8 @@
 #include <Adafruit_SSD1306.h>
 #include "gift_muka.h"
 
-const char* ssid = "ancaman";
-const char* password = "Akudewewani";
+const char* ssid = "putyourssid";
+const char* password = "putyourpass";
 const char* ntpServer = "pool.ntp.org";
 
 const int led[] = {D5,D6,D7};
